@@ -710,6 +710,34 @@ footer .footer_item {
     letter-spacing: 1px;
     text-indent: 0;
 }
+.card_apoio_footer {
+    background-color: rgba(11, 29, 58, 0.95);
+    color: #f6e095;
+    border: 1px solid rgba(212, 175, 55, 0.4);
+    border-radius: 8px;
+    max-width: 750px;
+    margin: 15px auto 0 auto;
+    padding: 16px 20px;
+    text-align: center;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.card_apoio_footer p {
+    margin-bottom: 8px;
+    text-indent: 0 !important;
+}
+
+.card_apoio_footer .chave_pix {
+    margin-bottom: 0;
+    font-size: 0.95rem;
+    color: #ffffff;
+}
+
+.card_apoio_footer .chave_pix strong {
+    color: #f6e095;
+}
 
 /* ==========================================================================
    9. FORMATAÇÃO DA IMAGEM DA PÁGINA INICIAL (História)
